@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94776577985",
+  "ownerName": "Hhjjj",
+  "ownerFrom": "Tyuu",
+  "ownerAge": "Yhji",
+  "menuLogo": "https://i.ibb.co/kNyH0hR/1759576625349.jpg",
+  "aliveLogo": "https://i.ibb.co/mCs0hC5b/1759576403771.jpg",
+  "ownerLogo": null,
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": false,
+  "alwaysOnline": true
+}
