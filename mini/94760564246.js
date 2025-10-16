@@ -5,5 +5,5 @@
   "antiDelete": true,
   "statusRead": true,
   "statusReact": true,
-  "alwaysOnline": true
+  "alwaysOnline": false
 }
