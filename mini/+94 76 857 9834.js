@@ -1,7 +1,7 @@
 {
   "ownerNumber": "+94 76 857 9834",
-  "autoTyping": true,
-  "autoRecording": false,
+  "autoTyping": false,
+  "autoRecording": true,
   "antiDelete": true,
   "statusRead": true,
   "statusReact": true,
