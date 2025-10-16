@@ -3,7 +3,7 @@
   "autoTyping": false,
   "autoRecording": true,
   "antiDelete": false,
-  "statusRead": true,
+  "statusRead": false,
   "statusReact": false,
   "alwaysOnline": false
 }
