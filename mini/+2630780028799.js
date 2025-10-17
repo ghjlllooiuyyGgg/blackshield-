@@ -1,7 +1,7 @@
 {
   "ownerNumber": "+2630780028799",
-  "autoTyping": true,
-  "autoRecording": false,
+  "autoTyping": false,
+  "autoRecording": true,
   "antiDelete": true,
   "statusRead": true,
   "statusReact": true,
