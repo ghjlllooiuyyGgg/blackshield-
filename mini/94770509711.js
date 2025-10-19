@@ -4,6 +4,6 @@
   "autoRecording": true,
   "antiDelete": true,
   "statusRead": true,
-  "statusReact": false,
-  "alwaysOnline": false
+  "statusReact": true,
+  "alwaysOnline": true
 }
