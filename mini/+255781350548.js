@@ -1,6 +1,6 @@
 {
   "ownerNumber": "+255781350548",
-  "autoTyping": true,
+  "autoTyping": false,
   "autoRecording": false,
   "antiDelete": true,
   "statusRead": true,
